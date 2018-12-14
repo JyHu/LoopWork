@@ -1,0 +1,6 @@
+framework module GCDTimer {
+  umbrella header "GCDTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

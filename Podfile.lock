@@ -1,0 +1,16 @@
+PODS:
+  - GCDTimer (1.1.0)
+
+DEPENDENCIES:
+  - GCDTimer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GCDTimer
+
+SPEC CHECKSUMS:
+  GCDTimer: 5837a5d70a464f86cbc9c56d75efc68f7e7c2fb8
+
+PODFILE CHECKSUM: 5ebb8ea884c65669e3a611126283d4d1e3ac670d
+
+COCOAPODS: 1.6.0.beta.2
